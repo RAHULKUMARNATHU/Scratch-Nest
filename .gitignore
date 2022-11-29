@@ -1,0 +1,5 @@
+/node_modules
+
+
+
+# npx ts-node-dev src/main.ts ::: start server 
